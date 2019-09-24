@@ -32,13 +32,29 @@ function protected(req, res, next) {
   }
 }
 
+// a mw that can read a name from a query string parameter
+// and place somewhere so that the next mw or request handler can read it
+// console.log the name from the next me or request handler
+
+function namer(req, res, next) {
+  req.name = req.query.name;
+  next();
+}
+
+function reader(req, res, next) {
+  console.log(req.name);
+  next();
+}
+
 // middleware
 server.use(express.json());
 server.use(helmet());
 server.use(banana);
 server.use(creepy);
+server.use(namer);
+server.use(reader);
 
-server.get("/", banana, (req, res) => {
+server.get("/", banana, reader, (req, res) => {
   res.status(200).json({ api: "up and running" });
 });
 
