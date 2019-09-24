@@ -16,6 +16,22 @@ function banana(req, res, next) {
   next();
 }
 
+function protected(req, res, next) {
+  // read a password from the request headers
+  // if the password is mellon, let the request
+  // continue, otherwise cancel the request
+  // and send back a 401 status code
+
+  const password = req.headers.password;
+  if (password && password.toLowerCase() === "mellon") {
+    next();
+  } else {
+    res
+      .status(401)
+      .json({ message: "just what exactly are you trying to do here my guy?" });
+  }
+}
+
 // middleware
 server.use(express.json());
 server.use(helmet());
@@ -26,7 +42,7 @@ server.get("/", banana, (req, res) => {
   res.status(200).json({ api: "up and running" });
 });
 
-server.get("/secret", (req, res) => {
+server.get("/secret", protected, (req, res) => {
   res.status(200).json({ welcome: "secret agent" });
 });
 
