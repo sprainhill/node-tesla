@@ -12,11 +12,7 @@ You can find the deployed project at [Founder Grants](https://grantly-b5b58.fire
 | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 :--------------: |:--------------: |
 :--------------: |
-| [<img src="" width = "" />](https://github.com/) | [<img src="" width = "" />](https://github.com/) | [<img src="" width = "" />](https://github.com/) | [<img src="" width = "" />](https://github.com/) | [<img src="" width = "" />](https://github.com/) |
-[<img src="" width = "" />](https://github.com/) |
-[<img src="" width = "" />](https://github.com/) |
-[<img src="" width = "" />](https://github.com/)
-|
+
 | [<img src="" width = "" />](https://github.com/honda0306) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah) |[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah) |[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah) |[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah) |[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah) |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
