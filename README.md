@@ -96,11 +96,9 @@ We chose Material UI because it is:
 - Simple but powerful
 - Easily customizable with lots of plugins
 
-🚫 List the rest of the back end end features and libraries in the same format as the framework above
-
 # APIs
 
-## 2️⃣ Authentication API here
+## [Auth0](https://founder-grants.auth0.com)
 
 🚫Replace text below with a description of the API
 
