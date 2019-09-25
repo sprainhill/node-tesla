@@ -6,11 +6,12 @@ You can find the deployed project at [Founder Grants](https://grantly-b5b58.fire
 
 🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
 
-| [Reed James](https://github.com/) | [Michael Harris](https://github.com/) | [Yusuf Nafey](https://github.com/) | [Rory Murray](https://github.com/) | [Student 5](https://github.com/) |[Student 6](https://github.com/)  
-| [Student 7](https://github.com/)  
-| [Student 8](https://github.com/)  
+| [Reed James](https://github.com/) | [Michael Harris](https://github.com/) | [Yusuf Nafey](https://github.com/) | [Rory Murray](https://github.com/) | [Philip Johnson](https://github.com/) |[Imani Russ](https://github.com/)  
+| [Zabdiel Rosario](https://github.com/)  
+| [Chad Kidd](https://github.com/)  
 | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
 :-----------------------------------------------------------------------------------------------------------------------------------------: |:-----------------------------------------------------------------------------------------------------------------------------------------: |
+:-----------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) |
 [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) |
 [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) |
