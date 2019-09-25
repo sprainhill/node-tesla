@@ -21,10 +21,14 @@ You can find the deployed project at [Founder Grants](https://grantly-b5b58.fire
 
 ## Contributor Test
 
-| [Rory Murray](https://github.com/rorychristianmurray)                                                         | [Michael Harris](https://github.com/imMichaelHarris)                                                          |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/rorychristianmurray)              | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/imMichaelHarris)                  |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+| [Rory Murray](https://github.com/rorychristianmurray) | [Michael Harris](https://github.com/imMichaelHarris) | [Philip Johnson](https://github.com/imMichaelHarris) |
+| ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+
+
+| [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) |
+
+| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/rorychristianmurray) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/imMichaelHarris) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/imMichaelHarris) |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
 ## Project Overview
 
