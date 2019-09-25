@@ -8,7 +8,7 @@ You can find the deployed project at [Founder Grants](https://grantly-b5b58.fire
 
 | [Reed James](https://github.com/) | [Michael Harris](https://github.com/) | [Yusuf Nafey](https://github.com/) | [Rory Murray](https://github.com/) | [Philip Johnson](https://github.com/) |[Imani Russ](https://github.com/)  
 | [Zabdiel Rosario](https://github.com/)  
-| [Chad Kidd](https://github.com/)  
+| [Chad Kidd](https://github.com/) |
 | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 :--------------: |:--------------: |
 :--------------: |
