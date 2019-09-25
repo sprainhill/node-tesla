@@ -25,7 +25,7 @@ You can find the deployed project at [Founder Grants](https://grantly-b5b58.fire
 
 Founder Grants connects early stage founders, hackers, and tinkerers with the resources they need to create the next wave of technology.
 
-We provide an easily searchable database of grants geared those in the early technology field.
+We provide an easily searchable database of grants geared to those in the early technology field in one central repository.
 
 ### Key Features
 
@@ -46,24 +46,55 @@ We provide an easily searchable database of grants geared those in the early tec
 
 #### React
 
-🚫 Why did you choose this framework?
+We chose React because it is:
 
 - Modular and component based
 - High speed (virtual DOM)
 - Rich library and plugin ecosystem
 - Great community and support
 
-🚫List the rest of the front end features and libraries in the same format as the framework above.
+#### Redux
 
-#### Front end deployed to `🚫insert service here`
+We chose Redux because it is:
 
-#### [Back end](🚫link to back end repo here) built using:
+- Easily compatible with React
+- Best in class state management
+- Scales well
+- Great documentation
 
-#### 🚫 back end framework goes here
+#### Firebase
 
-- point one
-- point two
-- point three
+We chose Firebase because it is:
+
+- Depth and bredth of services
+- Support and documentation
+- Safety and security
+- Ease of use
+
+#### Auth0
+
+We chose Auth0 because it is:
+
+- Easy to integrate into application
+- Scalability
+
+#### Material UI
+
+We chose Material UI because it is:
+
+- Sleek and simple
+- Lots of great solutions out of the box
+- Customizable
+
+#### Front end deployed to `Firebase`
+
+#### [Back end](https://github.com/Lambda-School-Labs/startup-grant-database-be) built using:
+
+#### Node / Express
+
+- JavaScript integration plays well with front end
+- Simple but powerful
+- Easily customizable with lots of plugins
 
 🚫 List the rest of the back end end features and libraries in the same format as the framework above
 
