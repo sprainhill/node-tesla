@@ -26,6 +26,11 @@ You can find the deployed project at [Founder Grants](https://grantly-b5b58.fire
 | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/rorychristianmurray)              |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
+| [Michael Harris](https://github.com/imMichaelHarris)                                                          |
+| ------------------------------------------------------------------------------------------------------------- |
+| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/imMichaelHarris)                  |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+
 ## Project Overview
 
 [Trello Board](https://trello.com/b/T3ej9wIi/starup-grant-db-16)
